@@ -1,0 +1,238 @@
+[
+  {
+    "id": "plastic-bottle",
+    "item": "plastic bottle",
+    "category": "Dry / Recyclable",
+    "bin": "Dry waste / recycling",
+    "action": "Empty and rinse when practical; keep separate from wet waste. Follow local collection rules for PET/plastic packaging.",
+    "safety": "Do not burn plastic.",
+    "keywords": "plastic bottle PET water bottle recyclable packaging",
+    "category_key": "dry_recyclable"
+  },
+  {
+    "item": "plastic bag",
+    "keywords": "plastic polythene packaging dry recyclable",
+    "category": "Dry / Recyclable",
+    "category_key": "dry_recyclable",
+    "bin": "Dry waste / plastic collection",
+    "action": "Keep clean and dry when practical and use the local plastic/dry-waste collection route.",
+    "safety": "Do not burn plastic."
+  },
+  {
+    "id": "plastic-wrapper",
+    "item": "plastic wrapper",
+    "category": "Dry / Recyclable",
+    "bin": "Dry waste / plastic collection",
+    "action": "Keep clean and dry and place it in the dry/plastic collection stream where accepted.",
+    "safety": "Do not burn plastic wrappers.",
+    "keywords": "chips wrapper snack packet plastic packaging wrapper",
+    "category_key": "dry_recyclable"
+  },
+  {
+    "item": "banana peel",
+    "keywords": "fruit organic food waste",
+    "category": "Wet / Organic",
+    "category_key": "wet",
+    "bin": "Wet/organic waste or composting",
+    "action": "Place with food and other compostable organic waste where separate collection is available.",
+    "safety": "Do not mix with batteries, chemicals, or other hazardous waste."
+  },
+  {
+    "id": "paper",
+    "item": "clean paper",
+    "category": "Dry / Recyclable",
+    "bin": "Dry waste / recycling",
+    "action": "Keep clean and dry; place with paper recyclables according to local rules.",
+    "safety": "Paper contaminated with chemicals or food may need different handling.",
+    "keywords": "paper notebook newspaper cardboard recycling",
+    "category_key": "dry_recyclable"
+  },
+  {
+    "id": "used-tissue",
+    "item": "used tissue",
+    "category": "General / Non-recyclable",
+    "bin": "General waste",
+    "action": "Dispose of in general waste unless your local authority provides a specific stream.",
+    "safety": "Do not place soiled tissues with clean paper recyclables.",
+    "keywords": "tissue napkin soiled paper contaminated",
+    "category_key": ""
+  },
+  {
+    "id": "battery",
+    "item": "lithium battery",
+    "category": "E-waste / Hazardous",
+    "bin": "Authorized e-waste or battery collection point",
+    "action": "Keep separate from household waste and take to an authorized collection point.",
+    "safety": "Do not puncture, crush, burn, or place loose batteries in general bins.",
+    "keywords": "battery lithium cell power bank hazardous e-waste",
+    "category_key": "e_waste"
+  },
+  {
+    "item": "old laptop",
+    "keywords": "laptop computer notebook electronics e-waste",
+    "category": "E-waste",
+    "category_key": "e_waste",
+    "bin": "Authorized e-waste collection / recycler",
+    "action": "Back up personal data, sign out, and use an authorized e-waste collection or recycling channel. Do not place electronics in household bins.",
+    "safety": "Remove batteries only if designed to be safely user-removable; do not puncture or burn batteries."
+  },
+  {
+    "id": "phone",
+    "item": "old mobile phone",
+    "category": "E-waste",
+    "bin": "Authorized e-waste collection",
+    "action": "Back up and remove personal data, then use an authorized e-waste channel.",
+    "safety": "Do not dismantle batteries yourself.",
+    "keywords": "mobile phone smartphone electronics e-waste",
+    "category_key": "e_waste"
+  },
+  {
+    "item": "glass bottle",
+    "keywords": "glass bottle dry recyclable",
+    "category": "Dry / Recyclable",
+    "category_key": "dry_recyclable",
+    "bin": "Glass recycling / dry waste",
+    "action": "Empty and rinse when practical; place in the local glass-recycling stream if available.",
+    "safety": "Handle broken glass carefully and wrap sharp fragments before disposal."
+  },
+  {
+    "id": "medicine",
+    "item": "expired medicine",
+    "category": "Special / Hazardous",
+    "bin": "Pharmacy take-back or authorized disposal channel",
+    "action": "Do not flush medicines or mix them with ordinary household waste unless local guidance explicitly permits it.",
+    "safety": "Keep medicines away from children and pets and follow label/local disposal instructions.",
+    "keywords": "medicine tablet expired drugs pharmaceutical",
+    "category_key": ""
+  },
+  {
+    "id": "food-container",
+    "item": "clean metal can",
+    "category": "Dry / Recyclable",
+    "bin": "Dry waste / metal recycling",
+    "action": "Empty and rinse when practical before recycling.",
+    "safety": "Watch for sharp edges on damaged cans.",
+    "keywords": "tin can metal can aluminum steel recycling",
+    "category_key": "dry_recyclable"
+  },
+  {
+    "id": "diaper",
+    "item": "used diaper",
+    "category": "Sanitary / General",
+    "bin": "Sanitary or general waste as locally specified",
+    "action": "Seal appropriately and use the sanitary/general waste channel specified by your local authority.",
+    "safety": "Do not mix with food or recyclables.",
+    "keywords": "diaper sanitary pad hygiene waste",
+    "category_key": ""
+  },
+  {
+    "id": "cardboard",
+    "item": "cardboard box",
+    "category": "Dry / Recyclable",
+    "bin": "Dry waste / paper recycling",
+    "action": "Flatten the box and keep it clean and dry before placing it with paper/cardboard recyclables.",
+    "safety": "Remove wet or heavily contaminated sections before recycling.",
+    "keywords": "cardboard box carton paper packaging recycling",
+    "category_key": "dry_recyclable"
+  },
+  {
+    "id": "food-scraps",
+    "item": "food scraps",
+    "category": "Wet / Organic",
+    "bin": "Wet waste / compost",
+    "action": "Place food scraps in the wet/organic stream or compost system where available.",
+    "safety": "Keep out batteries, glass, chemicals, and other contaminants.",
+    "keywords": "food waste vegetable scraps kitchen scraps organic compost",
+    "category_key": "wet"
+  },
+  {
+    "item": "used cooking oil",
+    "keywords": "oil cooking grease special collection",
+    "category": "Special Collection",
+    "category_key": "special",
+    "bin": "Authorized used-oil collection where available",
+    "action": "Cool completely, store in a sealed container, and use an authorized collection/recycling channel where available.",
+    "safety": "Do not pour used oil down drains."
+  },
+  {
+    "item": "mobile phone",
+    "keywords": "smartphone phone electronics e-waste",
+    "category": "E-waste",
+    "category_key": "e_waste",
+    "bin": "Authorized e-waste collection / take-back",
+    "action": "Erase personal data and use an authorized e-waste collection or manufacturer take-back channel.",
+    "safety": "Do not crush, puncture, or burn the battery."
+  },
+  {
+    "item": "keyboard",
+    "keywords": "computer peripheral electronics e-waste",
+    "category": "E-waste",
+    "category_key": "e_waste",
+    "bin": "Authorized e-waste collection / recycler",
+    "action": "Keep it separate from household waste and send it to an e-waste collection point.",
+    "safety": "Do not dismantle electronics unnecessarily."
+  },
+  {
+    "item": "charger",
+    "keywords": "adapter cable electronics e-waste",
+    "category": "E-waste",
+    "category_key": "e_waste",
+    "bin": "Authorized e-waste collection / take-back",
+    "action": "Keep chargers and adapters separate and use an e-waste collection channel.",
+    "safety": "Do not use visibly damaged chargers."
+  },
+  {
+    "item": "newspaper",
+    "keywords": "paper dry recyclable",
+    "category": "Dry / Recyclable",
+    "category_key": "dry_recyclable",
+    "bin": "Dry waste / paper recycling",
+    "action": "Keep dry and place with paper recyclables according to local collection rules.",
+    "safety": "Avoid recycling paper that is heavily contaminated with food or chemicals."
+  },
+  {
+    "item": "battery",
+    "keywords": "battery electronics hazardous e-waste",
+    "category": "E-waste / Hazardous",
+    "category_key": "e_waste",
+    "bin": "Battery or authorized e-waste collection",
+    "action": "Keep batteries separate and use a designated battery/e-waste collection channel.",
+    "safety": "Never puncture, crush, or burn batteries; tape exposed terminals when appropriate for local collection guidance."
+  },
+  {
+    "item": "diaper",
+    "keywords": "sanitary hygiene residual waste",
+    "category": "Sanitary Waste",
+    "category_key": "sanitary",
+    "bin": "Sanitary/residual waste according to local rules",
+    "action": "Seal appropriately and follow local sanitary-waste collection guidance.",
+    "safety": "Use hygienic handling practices and do not mix with food waste."
+  },
+  {
+    "item": "old clothes",
+    "keywords": "textile clothing reuse",
+    "category": "Textile / Reuse",
+    "category_key": "textile",
+    "bin": "Textile donation/reuse or designated textile collection",
+    "action": "Donate or reuse wearable items; use a textile collection stream where available.",
+    "safety": "Keep items dry and bagged if required by the collection point."
+  },
+  {
+    "item": "wooden chair",
+    "keywords": "furniture wood bulky waste",
+    "category": "Bulky Waste",
+    "category_key": "bulky",
+    "bin": "Bulky-waste collection / reuse",
+    "action": "Donate or reuse when possible; otherwise use the local bulky-waste collection route.",
+    "safety": "Do not leave bulky items where they obstruct pathways or emergency access."
+  },
+  {
+    "item": "paint can",
+    "keywords": "paint chemical hazardous",
+    "category": "Hazardous Waste",
+    "category_key": "hazardous",
+    "bin": "Household hazardous-waste collection",
+    "action": "Keep containers closed and use a designated hazardous-waste collection channel.",
+    "safety": "Do not pour paint into drains or mix chemicals."
+  }
+]
